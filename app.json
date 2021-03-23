@@ -13,9 +13,7 @@
     "updates": {
       "fallbackToCacheTimeout": 0
     },
-    "assetBundlePatterns": [
-      "**/*"
-    ],
+    "assetBundlePatterns": ["**/*"],
     "ios": {
       "supportsTablet": true
     },
@@ -23,8 +21,7 @@
       "adaptiveIcon": {
         "foregroundImage": "./assets/and.png",
         "backgroundColor": "#000000"
-      },
-      "package": "com.kirankumar225.Expense_Tracker"
+      }
     },
     "web": {
       "favicon": "./assets/favicon.ico"
