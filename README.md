@@ -25,8 +25,7 @@
 ### 1. Firebase Setup
 
 - [ Create a Project and add Firebase Configuration](https://firebase.google.com/docs/web/setup) to
-
-  firebase.js file it looks like this
+firebase.js file it looks like this
 
   ```
   const firebaseConfig = {
@@ -42,13 +41,13 @@
   };
   ```
 
-### 2. Google Authentication
+### 2. Email / Password Authentication
 
 - Goto Authentication tab left side of your project Dashboard
 - Enable [Email / Password Authentication](https://firebase.google.com/docs/auth/web/password-auth) to your project
 
 
-### 3.Database Setup
+### 3. Database Setup
   - Goto Firestore tab left side of your project Dashboard
 
   - Create a  **Firestore** database
@@ -71,4 +70,3 @@
 
 #### For more information refer Expo docs 
 https://docs.expo.io/workflow/configuration/
-
